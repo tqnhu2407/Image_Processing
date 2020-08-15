@@ -12,4 +12,4 @@ In this project, you are required to complete these processing functions below:
 
 Libraries allowed: PIL, matplotlib and numpy
 
-+ Report
++ Report (Vietnamese)
