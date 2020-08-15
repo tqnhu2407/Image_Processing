@@ -10,4 +10,6 @@ In this project, you are required to complete these processing functions below:
 5. Combine 2 images that have the same size
 6. Blur image
 
-Report
+Libraries allowed: PIL, matplotlib and numpy
+
++ Report
